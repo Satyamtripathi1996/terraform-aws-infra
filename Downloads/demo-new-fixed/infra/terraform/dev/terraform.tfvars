@@ -26,7 +26,7 @@ db_username = "vursaadmin"
 db_password = "PUT_A_REAL_STRONG_PASSWORD_HERE"
 
 # MUST be lowercase + globally unique
-uploads_bucket_name = "vursa-user-docs-dev-etop-9f3a12"  # example ONLY
+uploads_bucket_name = "vursa-user-docs-dev-etop-9f3a12"  # example name
 api_image_tag       = "latest"
 
 frontend_bucket_name = "vursa-frontend-dev"
